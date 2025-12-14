@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**PrathamSharma98/PrathamSharma98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Pratham Sharma**, a developer exploring **Web Development** along with **AI/ML**.
 
-Here are some ideas to get you started:
+I love building clean, functional web projects and experimenting with machine learning models.  
+Right now, I’m focused on learning full-stack fundamentals, ML algorithms, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I upload my projects, experiments, and everything I create while learning.  
+Everything here is built from scratch — no copied templates 🚀
+
+
+## 🛠️ Tools & Tech
+
+- HTML, CSS, JavaScript  
+- React (learning), TailwindCSS  
+- Python, NumPy, Pandas  
+- Scikit-Learn (basics)  
+- Git & GitHub  
+- VS Code, Jupyter Notebook  
+
+
+## 🌱 Currently Learning
+
+- Full-stack web development  
+- Machine learning fundamentals  
+- Data structures & algorithms  
+- Clean coding & project structuring  
+
+
+## ✨ A Bit About Me
+
+- 💻 I enjoy turning ideas into working projects  
+- 🤖 Interested in how AI models learn & make predictions  
+- 🎯 Goal: Become proficient in Web Dev + AI/ML  
+- 🧪 I love experimenting and building things from scratch  
+- 🧠 Always curious, always learning  
+- 😄 I like simple, clean, easy-to-understand code  
+
+  
+
